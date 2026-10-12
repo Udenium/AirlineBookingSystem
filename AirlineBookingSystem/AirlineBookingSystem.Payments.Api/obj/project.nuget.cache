@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "GM33nBGblCY=",
+  "success": true,
+  "projectFilePath": "/Users/arseniy/Documents/GitHub/AirlineBookingSystem/AirlineBookingSystem/AirlineBookingSystem.Payments.Api/AirlineBookingSystem.Payments.Api.csproj",
+  "expectedPackageFiles": [
+    "/Users/arseniy/.nuget/packages/microsoft.aspnetcore.openapi/10.0.12/microsoft.aspnetcore.openapi.10.0.12.nupkg.sha512",
+    "/Users/arseniy/.nuget/packages/microsoft.openapi/2.12.0/microsoft.openapi.2.12.0.nupkg.sha512"
+  ],
+  "logs": []
+}

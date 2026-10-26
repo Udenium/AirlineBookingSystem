@@ -1,41 +1,47 @@
+using System.Data;
+using System.Reflection;
+using AirlineBookingSystem.Notifications.Application.Handlers;
+using AirlineBookingSystem.Notifications.Application.Interfaces;
+using AirlineBookingSystem.Notifications.Application.Services;
+using AirlineBookingSystem.Notifications.Core.Repository;
+using AirlineBookingSystem.Notifications.Infrastructure.Repository;
+using Microsoft.Data.SqlClient;
+using Scalar.AspNetCore;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
 builder.Services.AddOpenApi();
+builder.Services.AddControllers();
+
+//Register MediatR
+var assemblies = new Assembly[]
+{
+    Assembly.GetExecutingAssembly(),
+    typeof(SentNotificationHandler).Assembly
+};
+
+builder.Services.AddMediatR(cfg
+    => cfg.RegisterServicesFromAssemblies(assemblies));
+
+//Application Services
+builder.Services.AddScoped<INotificationService, NotificationService>();
+builder.Services.AddScoped<INotificationRepository, NotificationRepository>();
+
+builder.Services.AddScoped<IDbConnection>(sp => 
+    new SqlConnection(builder.Configuration.GetConnectionString("MsSql")));
 
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {
+    app.MapScalarApiReference();
     app.MapOpenApi();
 }
 
 app.UseHttpsRedirection();
-
-var summaries = new[]
-{
-    "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
-};
-
-app.MapGet("/weatherforecast", () =>
-    {
-        var forecast = Enumerable.Range(1, 5).Select(index =>
-                new WeatherForecast
-                (
-                    DateOnly.FromDateTime(DateTime.Now.AddDays(index)),
-                    Random.Shared.Next(-20, 55),
-                    summaries[Random.Shared.Next(summaries.Length)]
-                ))
-            .ToArray();
-        return forecast;
-    })
-    .WithName("GetWeatherForecast");
-
+app.UseAuthorization();
+app.MapControllers();
 app.Run();
-
-record WeatherForecast(DateOnly Date, int TemperatureC, string? Summary)
-{
-    public int TemperatureF => 32 + (int)(TemperatureC / 0.5556);
-}

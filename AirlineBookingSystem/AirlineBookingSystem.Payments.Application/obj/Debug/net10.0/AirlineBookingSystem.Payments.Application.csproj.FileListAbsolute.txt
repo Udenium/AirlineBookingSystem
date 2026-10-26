@@ -1,0 +1,16 @@
+/Users/arseniy/Documents/GitHub/AirlineBookingSystem/AirlineBookingSystem/AirlineBookingSystem.Payments.Application/bin/Debug/net10.0/AirlineBookingSystem.Payments.Application.deps.json
+/Users/arseniy/Documents/GitHub/AirlineBookingSystem/AirlineBookingSystem/AirlineBookingSystem.Payments.Application/bin/Debug/net10.0/AirlineBookingSystem.Payments.Application.dll
+/Users/arseniy/Documents/GitHub/AirlineBookingSystem/AirlineBookingSystem/AirlineBookingSystem.Payments.Application/bin/Debug/net10.0/AirlineBookingSystem.Payments.Application.pdb
+/Users/arseniy/Documents/GitHub/AirlineBookingSystem/AirlineBookingSystem/AirlineBookingSystem.Payments.Application/obj/Debug/net10.0/AirlineBookingSystem.Payments.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arseniy/Documents/GitHub/AirlineBookingSystem/AirlineBookingSystem/AirlineBookingSystem.Payments.Application/obj/Debug/net10.0/AirlineBookingSystem.Payments.Application.AssemblyInfoInputs.cache
+/Users/arseniy/Documents/GitHub/AirlineBookingSystem/AirlineBookingSystem/AirlineBookingSystem.Payments.Application/obj/Debug/net10.0/AirlineBookingSystem.Payments.Application.AssemblyInfo.cs
+/Users/arseniy/Documents/GitHub/AirlineBookingSystem/AirlineBookingSystem/AirlineBookingSystem.Payments.Application/obj/Debug/net10.0/AirlineBookingSystem.Payments.Application.csproj.CoreCompileInputs.cache
+/Users/arseniy/Documents/GitHub/AirlineBookingSystem/AirlineBookingSystem/AirlineBookingSystem.Payments.Application/obj/Debug/net10.0/AirlineBookingSystem.Payments.Application.sourcelink.json
+/Users/arseniy/Documents/GitHub/AirlineBookingSystem/AirlineBookingSystem/AirlineBookingSystem.Payments.Application/obj/Debug/net10.0/AirlineBookingSystem.Payments.Application.dll
+/Users/arseniy/Documents/GitHub/AirlineBookingSystem/AirlineBookingSystem/AirlineBookingSystem.Payments.Application/obj/Debug/net10.0/refint/AirlineBookingSystem.Payments.Application.dll
+/Users/arseniy/Documents/GitHub/AirlineBookingSystem/AirlineBookingSystem/AirlineBookingSystem.Payments.Application/obj/Debug/net10.0/AirlineBookingSystem.Payments.Application.pdb
+/Users/arseniy/Documents/GitHub/AirlineBookingSystem/AirlineBookingSystem/AirlineBookingSystem.Payments.Application/obj/Debug/net10.0/ref/AirlineBookingSystem.Payments.Application.dll
+/Users/arseniy/Documents/GitHub/AirlineBookingSystem/AirlineBookingSystem/AirlineBookingSystem.Payments.Application/bin/Debug/net10.0/AirlineBookingSystem.Payments.Core.dll
+/Users/arseniy/Documents/GitHub/AirlineBookingSystem/AirlineBookingSystem/AirlineBookingSystem.Payments.Application/bin/Debug/net10.0/AirlineBookingSystem.Payments.Core.pdb
+/Users/arseniy/Documents/GitHub/AirlineBookingSystem/AirlineBookingSystem/AirlineBookingSystem.Payments.Application/obj/Debug/net10.0/AirlineBookingSystem.Payments.Application.csproj.AssemblyReference.cache
+/Users/arseniy/Documents/GitHub/AirlineBookingSystem/AirlineBookingSystem/AirlineBookingSystem.Payments.Application/obj/Debug/net10.0/AirlineB.456A4A67.Up2Date

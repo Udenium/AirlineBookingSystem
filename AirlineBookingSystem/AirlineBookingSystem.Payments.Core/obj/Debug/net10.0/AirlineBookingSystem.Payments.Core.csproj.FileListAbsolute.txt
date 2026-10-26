@@ -1,0 +1,12 @@
+/Users/arseniy/Documents/GitHub/AirlineBookingSystem/AirlineBookingSystem/AirlineBookingSystem.Payments.Core/bin/Debug/net10.0/AirlineBookingSystem.Payments.Core.deps.json
+/Users/arseniy/Documents/GitHub/AirlineBookingSystem/AirlineBookingSystem/AirlineBookingSystem.Payments.Core/bin/Debug/net10.0/AirlineBookingSystem.Payments.Core.dll
+/Users/arseniy/Documents/GitHub/AirlineBookingSystem/AirlineBookingSystem/AirlineBookingSystem.Payments.Core/bin/Debug/net10.0/AirlineBookingSystem.Payments.Core.pdb
+/Users/arseniy/Documents/GitHub/AirlineBookingSystem/AirlineBookingSystem/AirlineBookingSystem.Payments.Core/obj/Debug/net10.0/AirlineBookingSystem.Payments.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arseniy/Documents/GitHub/AirlineBookingSystem/AirlineBookingSystem/AirlineBookingSystem.Payments.Core/obj/Debug/net10.0/AirlineBookingSystem.Payments.Core.AssemblyInfoInputs.cache
+/Users/arseniy/Documents/GitHub/AirlineBookingSystem/AirlineBookingSystem/AirlineBookingSystem.Payments.Core/obj/Debug/net10.0/AirlineBookingSystem.Payments.Core.AssemblyInfo.cs
+/Users/arseniy/Documents/GitHub/AirlineBookingSystem/AirlineBookingSystem/AirlineBookingSystem.Payments.Core/obj/Debug/net10.0/AirlineBookingSystem.Payments.Core.csproj.CoreCompileInputs.cache
+/Users/arseniy/Documents/GitHub/AirlineBookingSystem/AirlineBookingSystem/AirlineBookingSystem.Payments.Core/obj/Debug/net10.0/AirlineBookingSystem.Payments.Core.sourcelink.json
+/Users/arseniy/Documents/GitHub/AirlineBookingSystem/AirlineBookingSystem/AirlineBookingSystem.Payments.Core/obj/Debug/net10.0/AirlineBookingSystem.Payments.Core.dll
+/Users/arseniy/Documents/GitHub/AirlineBookingSystem/AirlineBookingSystem/AirlineBookingSystem.Payments.Core/obj/Debug/net10.0/refint/AirlineBookingSystem.Payments.Core.dll
+/Users/arseniy/Documents/GitHub/AirlineBookingSystem/AirlineBookingSystem/AirlineBookingSystem.Payments.Core/obj/Debug/net10.0/AirlineBookingSystem.Payments.Core.pdb
+/Users/arseniy/Documents/GitHub/AirlineBookingSystem/AirlineBookingSystem/AirlineBookingSystem.Payments.Core/obj/Debug/net10.0/ref/AirlineBookingSystem.Payments.Core.dll

@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "jv4lNeocZkI=",
+  "dgSpecHash": "ygQN3fxY4kQ=",
   "success": true,
   "projectFilePath": "/Users/arseniy/Documents/GitHub/AirlineBookingSystem/AirlineBookingSystem/AirlineBookingSystem.Payments.Infrastructure/AirlineBookingSystem.Payments.Infrastructure.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/arseniy/.nuget/packages/dapper/2.1.89/dapper.2.1.89.nupkg.sha512"
+  ],
   "logs": []
 }

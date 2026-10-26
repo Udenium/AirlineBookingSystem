@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Km385uc5a8M=",
+  "dgSpecHash": "QI05Ttseg1A=",
   "success": true,
   "projectFilePath": "/Users/arseniy/Documents/GitHub/AirlineBookingSystem/AirlineBookingSystem/AirlineBookingSystem.Bookings.Infrastructure/AirlineBookingSystem.Bookings.Infrastructure.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/arseniy/.nuget/packages/dapper/2.1.89/dapper.2.1.89.nupkg.sha512"
+  ],
   "logs": []
 }

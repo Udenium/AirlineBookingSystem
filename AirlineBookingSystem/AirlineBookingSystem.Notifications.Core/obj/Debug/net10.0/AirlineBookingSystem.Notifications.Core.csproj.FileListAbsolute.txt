@@ -1,0 +1,12 @@
+/Users/arseniy/Documents/GitHub/AirlineBookingSystem/AirlineBookingSystem/AirlineBookingSystem.Notifications.Core/bin/Debug/net10.0/AirlineBookingSystem.Notifications.Core.deps.json
+/Users/arseniy/Documents/GitHub/AirlineBookingSystem/AirlineBookingSystem/AirlineBookingSystem.Notifications.Core/bin/Debug/net10.0/AirlineBookingSystem.Notifications.Core.dll
+/Users/arseniy/Documents/GitHub/AirlineBookingSystem/AirlineBookingSystem/AirlineBookingSystem.Notifications.Core/bin/Debug/net10.0/AirlineBookingSystem.Notifications.Core.pdb
+/Users/arseniy/Documents/GitHub/AirlineBookingSystem/AirlineBookingSystem/AirlineBookingSystem.Notifications.Core/obj/Debug/net10.0/AirlineBookingSystem.Notifications.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arseniy/Documents/GitHub/AirlineBookingSystem/AirlineBookingSystem/AirlineBookingSystem.Notifications.Core/obj/Debug/net10.0/AirlineBookingSystem.Notifications.Core.AssemblyInfoInputs.cache
+/Users/arseniy/Documents/GitHub/AirlineBookingSystem/AirlineBookingSystem/AirlineBookingSystem.Notifications.Core/obj/Debug/net10.0/AirlineBookingSystem.Notifications.Core.AssemblyInfo.cs
+/Users/arseniy/Documents/GitHub/AirlineBookingSystem/AirlineBookingSystem/AirlineBookingSystem.Notifications.Core/obj/Debug/net10.0/AirlineBookingSystem.Notifications.Core.csproj.CoreCompileInputs.cache
+/Users/arseniy/Documents/GitHub/AirlineBookingSystem/AirlineBookingSystem/AirlineBookingSystem.Notifications.Core/obj/Debug/net10.0/AirlineBookingSystem.Notifications.Core.sourcelink.json
+/Users/arseniy/Documents/GitHub/AirlineBookingSystem/AirlineBookingSystem/AirlineBookingSystem.Notifications.Core/obj/Debug/net10.0/AirlineBookingSystem.Notifications.Core.dll
+/Users/arseniy/Documents/GitHub/AirlineBookingSystem/AirlineBookingSystem/AirlineBookingSystem.Notifications.Core/obj/Debug/net10.0/refint/AirlineBookingSystem.Notifications.Core.dll
+/Users/arseniy/Documents/GitHub/AirlineBookingSystem/AirlineBookingSystem/AirlineBookingSystem.Notifications.Core/obj/Debug/net10.0/AirlineBookingSystem.Notifications.Core.pdb
+/Users/arseniy/Documents/GitHub/AirlineBookingSystem/AirlineBookingSystem/AirlineBookingSystem.Notifications.Core/obj/Debug/net10.0/ref/AirlineBookingSystem.Notifications.Core.dll

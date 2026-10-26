@@ -1,0 +1,16 @@
+/Users/arseniy/Documents/GitHub/AirlineBookingSystem/AirlineBookingSystem/AirlineBookingSystem.Flights.Application/bin/Debug/net10.0/AirlineBookingSystem.Flights.Application.deps.json
+/Users/arseniy/Documents/GitHub/AirlineBookingSystem/AirlineBookingSystem/AirlineBookingSystem.Flights.Application/bin/Debug/net10.0/AirlineBookingSystem.Flights.Application.dll
+/Users/arseniy/Documents/GitHub/AirlineBookingSystem/AirlineBookingSystem/AirlineBookingSystem.Flights.Application/bin/Debug/net10.0/AirlineBookingSystem.Flights.Application.pdb
+/Users/arseniy/Documents/GitHub/AirlineBookingSystem/AirlineBookingSystem/AirlineBookingSystem.Flights.Application/obj/Debug/net10.0/AirlineBookingSystem.Flights.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arseniy/Documents/GitHub/AirlineBookingSystem/AirlineBookingSystem/AirlineBookingSystem.Flights.Application/obj/Debug/net10.0/AirlineBookingSystem.Flights.Application.AssemblyInfoInputs.cache
+/Users/arseniy/Documents/GitHub/AirlineBookingSystem/AirlineBookingSystem/AirlineBookingSystem.Flights.Application/obj/Debug/net10.0/AirlineBookingSystem.Flights.Application.AssemblyInfo.cs
+/Users/arseniy/Documents/GitHub/AirlineBookingSystem/AirlineBookingSystem/AirlineBookingSystem.Flights.Application/obj/Debug/net10.0/AirlineBookingSystem.Flights.Application.csproj.CoreCompileInputs.cache
+/Users/arseniy/Documents/GitHub/AirlineBookingSystem/AirlineBookingSystem/AirlineBookingSystem.Flights.Application/obj/Debug/net10.0/AirlineBookingSystem.Flights.Application.sourcelink.json
+/Users/arseniy/Documents/GitHub/AirlineBookingSystem/AirlineBookingSystem/AirlineBookingSystem.Flights.Application/obj/Debug/net10.0/AirlineBookingSystem.Flights.Application.dll
+/Users/arseniy/Documents/GitHub/AirlineBookingSystem/AirlineBookingSystem/AirlineBookingSystem.Flights.Application/obj/Debug/net10.0/refint/AirlineBookingSystem.Flights.Application.dll
+/Users/arseniy/Documents/GitHub/AirlineBookingSystem/AirlineBookingSystem/AirlineBookingSystem.Flights.Application/obj/Debug/net10.0/AirlineBookingSystem.Flights.Application.pdb
+/Users/arseniy/Documents/GitHub/AirlineBookingSystem/AirlineBookingSystem/AirlineBookingSystem.Flights.Application/obj/Debug/net10.0/ref/AirlineBookingSystem.Flights.Application.dll
+/Users/arseniy/Documents/GitHub/AirlineBookingSystem/AirlineBookingSystem/AirlineBookingSystem.Flights.Application/bin/Debug/net10.0/AirlineBookingSystem.Flights.Core.dll
+/Users/arseniy/Documents/GitHub/AirlineBookingSystem/AirlineBookingSystem/AirlineBookingSystem.Flights.Application/bin/Debug/net10.0/AirlineBookingSystem.Flights.Core.pdb
+/Users/arseniy/Documents/GitHub/AirlineBookingSystem/AirlineBookingSystem/AirlineBookingSystem.Flights.Application/obj/Debug/net10.0/AirlineBookingSystem.Flights.Application.csproj.AssemblyReference.cache
+/Users/arseniy/Documents/GitHub/AirlineBookingSystem/AirlineBookingSystem/AirlineBookingSystem.Flights.Application/obj/Debug/net10.0/AirlineB.1559686E.Up2Date

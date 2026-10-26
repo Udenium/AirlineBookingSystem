@@ -1,11 +1,31 @@
 {
   "version": 2,
-  "dgSpecHash": "vtRmDfl29sM=",
+  "dgSpecHash": "ciliRVIyXMU=",
   "success": true,
   "projectFilePath": "/Users/arseniy/Documents/GitHub/AirlineBookingSystem/AirlineBookingSystem/AirlineBookingSystem.Bookings.Api/AirlineBookingSystem.Bookings.Api.csproj",
   "expectedPackageFiles": [
+    "/Users/arseniy/.nuget/packages/dapper/2.1.89/dapper.2.1.89.nupkg.sha512",
+    "/Users/arseniy/.nuget/packages/mediatr/14.2.0/mediatr.14.2.0.nupkg.sha512",
+    "/Users/arseniy/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
     "/Users/arseniy/.nuget/packages/microsoft.aspnetcore.openapi/10.0.12/microsoft.aspnetcore.openapi.10.0.12.nupkg.sha512",
-    "/Users/arseniy/.nuget/packages/microsoft.openapi/2.12.0/microsoft.openapi.2.12.0.nupkg.sha512"
+    "/Users/arseniy/.nuget/packages/microsoft.bcl.cryptography/9.0.18/microsoft.bcl.cryptography.9.0.18.nupkg.sha512",
+    "/Users/arseniy/.nuget/packages/microsoft.data.sqlclient/7.1.1/microsoft.data.sqlclient.7.1.1.nupkg.sha512",
+    "/Users/arseniy/.nuget/packages/microsoft.data.sqlclient.extensions.abstractions/7.1.1/microsoft.data.sqlclient.extensions.abstractions.7.1.1.nupkg.sha512",
+    "/Users/arseniy/.nuget/packages/microsoft.data.sqlclient.internal.logging/7.1.1/microsoft.data.sqlclient.internal.logging.7.1.1.nupkg.sha512",
+    "/Users/arseniy/.nuget/packages/microsoft.data.sqlclient.sni.runtime/7.1.0/microsoft.data.sqlclient.sni.runtime.7.1.0.nupkg.sha512",
+    "/Users/arseniy/.nuget/packages/microsoft.identitymodel.abstractions/8.16.0/microsoft.identitymodel.abstractions.8.16.0.nupkg.sha512",
+    "/Users/arseniy/.nuget/packages/microsoft.identitymodel.jsonwebtokens/8.16.0/microsoft.identitymodel.jsonwebtokens.8.16.0.nupkg.sha512",
+    "/Users/arseniy/.nuget/packages/microsoft.identitymodel.logging/8.16.0/microsoft.identitymodel.logging.8.16.0.nupkg.sha512",
+    "/Users/arseniy/.nuget/packages/microsoft.identitymodel.protocols/8.16.0/microsoft.identitymodel.protocols.8.16.0.nupkg.sha512",
+    "/Users/arseniy/.nuget/packages/microsoft.identitymodel.protocols.openidconnect/8.16.0/microsoft.identitymodel.protocols.openidconnect.8.16.0.nupkg.sha512",
+    "/Users/arseniy/.nuget/packages/microsoft.identitymodel.tokens/8.16.0/microsoft.identitymodel.tokens.8.16.0.nupkg.sha512",
+    "/Users/arseniy/.nuget/packages/microsoft.openapi/2.12.0/microsoft.openapi.2.12.0.nupkg.sha512",
+    "/Users/arseniy/.nuget/packages/microsoft.sqlserver.server/1.0.0/microsoft.sqlserver.server.1.0.0.nupkg.sha512",
+    "/Users/arseniy/.nuget/packages/scalar.aspnetcore/2.18.0/scalar.aspnetcore.2.18.0.nupkg.sha512",
+    "/Users/arseniy/.nuget/packages/system.configuration.configurationmanager/9.0.18/system.configuration.configurationmanager.9.0.18.nupkg.sha512",
+    "/Users/arseniy/.nuget/packages/system.identitymodel.tokens.jwt/8.16.0/system.identitymodel.tokens.jwt.8.16.0.nupkg.sha512",
+    "/Users/arseniy/.nuget/packages/system.security.cryptography.pkcs/9.0.18/system.security.cryptography.pkcs.9.0.18.nupkg.sha512",
+    "/Users/arseniy/.nuget/packages/system.security.cryptography.protecteddata/9.0.18/system.security.cryptography.protecteddata.9.0.18.nupkg.sha512"
   ],
   "logs": []
 }
